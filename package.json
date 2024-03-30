@@ -6,7 +6,8 @@
   "scripts": {
     "dev": "vite",
     "build": "vite build --base=/fe-1-js-practice/",
-    "preview": "vite preview"
+    "preview": "vite preview",
+    "server": "npx json-server ./src/products.json"
   },
   "devDependencies": {
     "glob": "^8.1.0",
@@ -15,6 +16,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "json-server": "^1.0.0-alpha.23",
     "modern-normalize": "^2.0.0",
     "sass": "^1.72.0",
     "swiper": "^10.3.1",
