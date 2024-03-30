@@ -1,0 +1,54 @@
+{
+  "fruits": [
+    {
+      "name": "banana",
+      "price": 40,
+      "emoji": "🍌",
+      "quantity": 100
+    },
+    {
+      "name": "apple",
+      "price": 25,
+      "emoji": "🍏",
+      "quantity": 125
+    },
+    {
+      "name": "cherry",
+      "price": 70,
+      "emoji": "🍒",
+      "quantity": 200
+    },
+    {
+      "name": "kiwi",
+      "price": 100,
+      "emoji": "🥝",
+      "quantity": 75
+    }
+  ],
+  "vegetables": [
+    {
+      "name": "carrot",
+      "price": 15,
+      "emoji": "🥕",
+      "quantity": 350
+    },
+    {
+      "name": "cucumber",
+      "price": 43,
+      "emoji": "🥒",
+      "quantity": 278
+    },
+    {
+      "name": "broccoli",
+      "price": 93,
+      "emoji": "🥦",
+      "quantity": 428
+    },
+    {
+      "name": "peper",
+      "price": 123,
+      "emoji": "🌶",
+      "quantity": 27
+    }
+  ]
+}
